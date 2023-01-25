@@ -1,3 +1,6 @@
+**Chromatica**
+https://cornellb02.github.io/Chromatica2/
+
 **Background**
  
 Welcome to Chromatica, the go-to tool for simple and efficient video editing. Our application offers a range of basic features such as the ability to speed up or slow down your videos, pause and play them, and even adjust the color scheme.
@@ -7,19 +10,36 @@ Chromatica's user-friendly interface makes it easy for anyone to make basic edit
 Our minimalistic approach allows you to focus on the essentials, making video editing accessible to all. Try Chromatica now and give your videos the touch they need.
  
 **Functionality & MVPs**
- 
-- Speed adjustment: Allows users to speed up or slow down their videos.
- 
+- Video is playable:  Users can upload a video of their liking, from their device, as the main subject theyll be interacting with. 
+
 - Playback control: Allows users to pause and play their videos.
  
-- Client-side video rendering allows for the user to download videos that they have munipluated 
- 
-- When a user hovers their mouse over a certain button, the button will change colors signifying that this action could potentially be selected.   
+- Hover effects and onclicks: changes the color of a botton when it is hovered over and also when its clicked.   
 
+- Brightness Effect - allows users to adjust the bightness or darkness of the video with a bar. Then allows users to play that video back with this effect on it. 
+
+- Preview screen - before applying your effects to the main video that you would be working with this preview screen allows users to see what they may look like and decide if they would want to change anything. 
+
+Some additional functionalities that will be applied are:
+
+- Speed adjustment: Allows users to speed up or slow down their videos.
+
+- Client-side video rendering allows for the user to download videos that they have munipluated 
+
+- slicing ot splicing - users will be able to minipulate what parts of multiple clips they want to interact with.
+
+- Color change effect - users will be able to add and adjust the color or the entire video. 
+
+- Glitch effect- one very basic effect that causes the screen and colors to do some sort of "glitch" movement.
+
+- Clip container - if a user wanted to upload multiple clips or videos to interact with they will be stored in our clip container.  
+
+- Story line - Storyline is where users can adjust the exact order of how they would want their clips and what effects goes where.
  
 In addition, this project will include:
  
 - An About modal describing the background of the visualizer
+
 - A production README
  
 **Wireframes**
